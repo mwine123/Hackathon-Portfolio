@@ -1,2 +1,2 @@
 # Hackathon-Portfolio
- A simple portfolio using HTML
+ July 2025 cohort. First Hackathon. A simple portfolio using HTML and CSS
